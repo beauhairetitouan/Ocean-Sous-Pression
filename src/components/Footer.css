@@ -1,0 +1,17 @@
+.title_footer {
+    text-align: center;
+    font-size: small;
+}
+
+.logo_footer {
+    width: 5%;
+    margin-left: 47.5%;
+}
+
+.footer {
+    background-color: #0C1829;
+    color: white;
+    position: absolute;
+    width: 100%;
+
+}

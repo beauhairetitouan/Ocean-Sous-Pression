@@ -1,0 +1,42 @@
+.home {
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.textes {
+    display: flex;
+    flex-direction: column;
+
+    align-items: left;
+    margin-right: 10%;
+
+}
+
+.first_line {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: center;
+}
+
+.titre_home {
+    font-size: 2.5em;
+    margin-bottom: 0%;
+}
+
+.description_home {
+    font-size: 1.5em;
+}
+
+.home_image_tortue {
+    width: 30%;
+    margin-left: 20%;
+
+}
+
+.home_image_coreaux {
+    width: 100%;
+}
