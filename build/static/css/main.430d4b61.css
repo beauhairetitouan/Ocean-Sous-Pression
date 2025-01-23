@@ -1,2 +1,134 @@
-body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}body{background-image:url(/static/media/background.199b4296e11d0346c12b.jpg);background-repeat:no-repeat;background-size:cover;font-family:Arial,sans-serif;line-height:1.6;margin:0;padding:0}header{background:#0c1829;color:#fff;padding:1rem;text-align:center}header nav a{color:#fff;margin:0 1rem;text-decoration:none}header nav a:hover{text-decoration:underline}main{padding:1rem}section{margin:2rem 0}form{display:flex;flex-direction:column}form label{margin-bottom:1rem}button{background:#0077b6;border:none;color:#fff;cursor:pointer;padding:.5rem}button:hover{background:#005f8a}.logo_header{width:8%}nav{align-items:center;display:flex;justify-content:center}.home{color:#fff;justify-content:flex-end}.home,.textes{display:flex;flex-direction:column}.textes{align-items:left;margin-right:10%}.first_line{display:flex;flex-direction:row;justify-content:center}.titre_home{font-size:2.5em;margin-bottom:0}.description_home{font-size:1.5em}.home_image_tortue{margin-left:20%;width:30%}.home_image_coreaux{width:100%}.title_footer{font-size:small;text-align:center}.logo_footer{margin-left:47.5%;width:5%}.footer{background-color:#0c1829;color:#fff;position:absolute;width:100%}
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace
+}
+
+body {
+    background-image: url(static/media/background.199b4296e11d0346c12b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0
+}
+
+header {
+    background: #0c1829;
+    color: #fff;
+    padding: 1rem;
+    text-align: center
+}
+
+header nav a {
+    color: #fff;
+    margin: 0 1rem;
+    text-decoration: none
+}
+
+header nav a:hover {
+    text-decoration: underline
+}
+
+main {
+    padding: 1rem
+}
+
+section {
+    margin: 2rem 0
+}
+
+form {
+    display: flex;
+    flex-direction: column
+}
+
+form label {
+    margin-bottom: 1rem
+}
+
+button {
+    background: #0077b6;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    padding: .5rem
+}
+
+button:hover {
+    background: #005f8a
+}
+
+.logo_header {
+    width: 8%
+}
+
+nav {
+    align-items: center;
+    display: flex;
+    justify-content: center
+}
+
+.home {
+    color: #fff;
+    justify-content: flex-end
+}
+
+.home,
+.textes {
+    display: flex;
+    flex-direction: column
+}
+
+.textes {
+    align-items: left;
+    margin-right: 10%
+}
+
+.first_line {
+    display: flex;
+    flex-direction: row;
+    justify-content: center
+}
+
+.titre_home {
+    font-size: 2.5em;
+    margin-bottom: 0
+}
+
+.description_home {
+    font-size: 1.5em
+}
+
+.home_image_tortue {
+    margin-left: 20%;
+    width: 30%
+}
+
+.home_image_coreaux {
+    width: 100%
+}
+
+.title_footer {
+    font-size: small;
+    text-align: center
+}
+
+.logo_footer {
+    margin-left: 47.5%;
+    width: 5%
+}
+
+.footer {
+    background-color: #0c1829;
+    color: #fff;
+    position: absolute;
+    width: 100%
+}
+
 /*# sourceMappingURL=main.430d4b61.css.map*/
