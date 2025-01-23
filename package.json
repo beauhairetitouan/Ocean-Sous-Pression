@@ -1,5 +1,5 @@
 {
-  "name": "Ocean-Sous-Pression",
+  "name": "ocean-sous-pression",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,6 +36,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://beauhairetitouan.github.io/Ocean-Sous-Pression"
+    "homepage": "https://beauhairetitouan.github.io/ocean-sous-pression"
   }
 }
